@@ -50,7 +50,7 @@ OUTPUT:
 
 
 
-This project involves building a predictive machine learning model using Scikit-learn to classify or predict outcomes from a given dataset. A commonly used example is spam email detection, where the model learns to distinguish between spam and non-spam emails based on features extracted from the email content. The goal is to demonstrate the end-to-end pipeline of a machine learning workflow—from data preprocessing to model evaluation—within a Jupyter Notebook.
+THIS PROJECT INVOLVES BUILDING A PREDICTIVE MACHINE LEARNING MODEL USING SCIKIT-LEARN TO CLASSIFY OR PREDICT OUTCOMES FROM A GIVEN DATASET. A COMMONLY USED EXAMPLE IS SPAM EMAIL DETECTION, WHERE THE MODEL LEARNS TO DISTINGUISH BETWEEN SPAM AND NON-SPAM EMAILS BASED ON FEATURES EXTRACTED FROM THE EMAIL CONTENT. THE GOAL IS TO DEMONSTRATE THE END-TO-END PIPELINE OF A MACHINE LEARNING WORKFLOW—FROM DATA PREPROCESSING TO MODEL EVALUATION—WITHIN A JUPYTER NOTEBOOK.
 
 
 
